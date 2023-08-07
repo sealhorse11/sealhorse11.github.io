@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+description: this is not a bl?og
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Sealhorse11**
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+개발 기획, 아이디어, 결과물 등을 기록하는 개발 블로그입니다. 꼭 개발이 아니더라도 올리고 싶다면 뭐든 올릴 듯 합니다.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+생산적인 일을 더 하기 위해, 생산적인 일을 한 과정을 기록하기 위해 만들었습니다. 글을 자주 올리지 않을 때 회초리를 들어주시면 감사하겠습니다.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+어쩌면 글을 쓰는 실력에 있어 도움이 될 수도 있다고 생각합니다. 의식의 흐름을 텍스트의 형태로 나타내는 일을 쉽게 하고 싶습니다.
 
-*Thank You for reading!*
+겸사겸사 마크업이나 마크다운 언어 문법도 알아갈 수 있어 좋다고 생각합니다.
+
+*최대한 유기하지 않고 운영해보겠읍니다*

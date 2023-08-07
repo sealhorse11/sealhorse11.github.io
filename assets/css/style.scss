@@ -25,8 +25,8 @@
 
 // Font.
 $font: (
-  primary: ("Lato","Helvetica Neue",Helvetica,sans-serif),
-  secondary: ("Noto Serif",Georgia,serif)
+  primary: ('Gothic A1', sans-serif),
+  secondary: ("Hahmlet",serif)
 );
 
 // Palette.
@@ -53,3 +53,5 @@ $palette: (
 @import "site-footer";
 @import "animations";
 @import "prism";
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@500&display=swap');
