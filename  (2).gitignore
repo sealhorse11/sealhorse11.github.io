@@ -15,9 +15,3 @@ vendor/bundle
 .sass-cache
 _asset_bundler_cache
 _site
-
-# vs code files
-/.vs
-.vs/
-.bin/
-.obj/
