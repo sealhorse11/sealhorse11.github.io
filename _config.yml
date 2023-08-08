@@ -36,7 +36,9 @@ navigation:
     url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+utterances:
+  theme: "github-light"
+  issue-term: "pathname"
 
 # Colors
 accent_color: '#9F0A28'
