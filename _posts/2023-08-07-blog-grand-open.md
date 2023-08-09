@@ -3,7 +3,7 @@ layout: post
 title: "개발 블로그 개설"
 description: "개발 관련 아이디어나 결과물 등을 올릴 블로그를 개설했다. 꼭 개발이 아니더라도 생산적인 무언가가 쌓이면 올릴 예정."
 date: 2023-08-07
-tags: [just-chatting, plan]
+tags: [just-chatting]
 ---
 
 개발 블로그를 개설했다.  
