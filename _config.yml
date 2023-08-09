@@ -18,7 +18,7 @@ description: "Sealhorse11는 뉴비를 벗어나고 싶어합니다."
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://sealhorse11.github.io"
 
 # Favicon
 favicon: images/seahorse.png
