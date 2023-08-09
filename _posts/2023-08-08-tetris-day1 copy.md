@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "대전 테트리스 개발 1일차"
+title: "Tetris pvp AI 1"
 description: "대전 테트리스 개발 1일차이다."
 date: 2023-08-08
 tags: [tetris-pvp-ai]
