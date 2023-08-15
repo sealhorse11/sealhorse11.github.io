@@ -47,6 +47,7 @@
   a {
     color: inherit;
     text-decoration: none;
+
     &:hover {
       color: _palette(accent);
     }
@@ -72,7 +73,7 @@
     width: 90px;
   }
 
-  .author-avatar + .author-details {
+  .author-avatar+.author-details {
     padding-left: 120px;
   }
 
@@ -106,7 +107,7 @@
       margin-right: 0;
     }
 
-    .author-avatar + .author-details {
+    .author-avatar+.author-details {
       padding-left: 0;
     }
   }
@@ -115,12 +116,14 @@
 /* Share post */
 .post-share {
   padding: 1.66667em 0 3.33333em;
+
   span {
     color: _palette(meta);
     display: inline-block;
     font-size: 0.88889em;
     margin-right: 15px;
   }
+
   a {
     border: 1px solid _palette(border);
     border-radius: 3px;
@@ -133,6 +136,7 @@
     text-decoration: none;
     -webkit-transition: .3s ease;
     transition: .3s ease;
+
     &:hover {
       border-color: _palette(accent);
       color: _palette(accent);
@@ -143,8 +147,10 @@
 /* Archive page */
 .archive-tags {
   font-style: italic;
+
   a {
     margin-right: 5px;
+
     &:before {
       content: "\0023";
     }
@@ -160,6 +166,7 @@
 .archive-post-list {
   list-style: none;
   padding: 0;
+
   li {
     margin-bottom: 1em;
   }
@@ -167,8 +174,11 @@
 
 .archive-meta {
   color: _palette(meta);
+
   .archive-date {
     font-size: 14px;
     font-weight: bold;
   }
 }
+
+@import "/assets/css/syntax.css";
